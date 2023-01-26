@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037638054845",
+    "project_id": "imagerecognition-52c7e",
+    "storage_bucket": "imagerecognition-52c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037638054845:android:e167c5c41c0e2cc29918d4",
+        "android_client_info": {
+          "package_name": "com.example.image_recognition_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037638054845-pptb4pmke12bt5q9f3sffo456m8lgspg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVFVD84GGNa9uoqxGUDe3PJY9WbRag-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037638054845-pptb4pmke12bt5q9f3sffo456m8lgspg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
